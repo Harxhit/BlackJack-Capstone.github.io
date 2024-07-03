@@ -1,3 +1,4 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 # BlackJack-Capstone 🃏
 
 "Developed a Python-based Blackjack game as a personal project to demonstrate proficiency in object-oriented programming and game development principles."
